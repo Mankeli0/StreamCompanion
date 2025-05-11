@@ -1,2 +1,2 @@
-# Gamma
+300# Gamma
 
